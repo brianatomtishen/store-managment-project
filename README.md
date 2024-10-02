@@ -18,3 +18,8 @@ Use the this keyword
 Use the this keyword to refer to the current object's instance variables and/or to call another constructor in the class.
 (some extra credit) Incorporate user interaction 
 Use methods in the Scanner class to obtain user input to interact with your store management system
+
+## UML DIAGRAM 
+
+![Screenshot 2024-10-02 11 24 52 AM](https://github.com/user-attachments/assets/a2706f0e-5ce1-4260-a067-14ae6747e6d5)
+
