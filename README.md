@@ -1,5 +1,5 @@
 ### store-managment-project
-## Unit 2 - Management Poject
+# Unit 2 - Management Poject
 You are opening a new business in your community! Businesses often need programs to manage the products and services they offer and track orders and requests from customers. Your goal is to create a store management system for your business.
 # Project Requirements
 Use your knowledge of object-oriented programming and class structure and design to create your store management system:
