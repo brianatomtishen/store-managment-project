@@ -33,9 +33,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-My project created a bakery buisness that sells desserts to the public. It was created using one super class called dessert and two sub classes called BakedGoods and Frozen Treats dividing the desserts being sold into two common groups. I used four instance variables in the super class called name, price, flavor, and quantity.
+My project created a bakery buisness that sells desserts to the public. It was created using one super class called dessert and two sub classes called Baked Goods and Frozen Treats dividing the desserts being sold into two common groups. I used four instance variables in the super class called name, price, flavor, and quantity. There variables will be used to describe the dessert your purchasing. In the sub class Baked Goods I created the instance variables is Hot and is Fresh to represent whether the item is freshly made and if it is supposed to be hot or cold when served. I created 6 different dessert items in my tester class to represent the different kind of desserts you can buy at my bakery. I named them dessert 1-6 and added arguements to half of the desserts. For dessert 2 I used the values "Brownie", 1.50, "Chocolate", and 5. For dessert 1 since I did not use arguements it defaulted to the values I set in the super classes and sub classes.
 
-3. What are two things about your project that you are proud of?
+2. What are two things about your project that you are proud of?
 
+I am most proud of all of the instance variables and the methods in my program that allow me to add details to what type of dessert they are purchasing such as if it is hot or fresh. This allows customers of my store to know in detail what they are purchasing based on what they want. I also like the format of how my code spits out, and if there are multiple items it seperates the details so you can observe everything you are purchasing at one.
 
-4. Describe something you would improve or do differently if you had an opportunity to change something about your project.
+3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
+
+If I had an oppurtunity to do something differently I woulkd love to find a way for people to see the options my bakery serves and be able to select them rather than typing it out. When the dessert item is selected it will spit out the details of the dessert which I believe would be more useful and effective for the user.
