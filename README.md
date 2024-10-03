@@ -32,6 +32,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 ## Reflection
 
 1. Describe your project.
+
 My project created a bakery buisness that sells desserts to the public. It was created using one super class called dessert and two sub classes called BakedGoods and Frozen Treats dividing the desserts being sold into two common groups. I used four instance variables in the super class called name, price, flavor, and quantity.
 
 3. What are two things about your project that you are proud of?
